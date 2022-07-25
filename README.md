@@ -1,8 +1,8 @@
-![MasterHead](https://as1.ftcdn.net/v2/jpg/03/77/08/22/1000_F_377082215_XdCMMLYICc9uDtX4bFLP7k0bfRf5rAPF.jpg)
+![MasterHead ](https://camo.githubusercontent.com/69bf67291da308f2ed16225521364f8acea377dda2ec5c0f41b5f8f307875f0a/68747470733a2f2f692e696d6775722e636f6d2f7551366e566a422e676966)
 
 <h1 align="center">Hi 👋, I'm Mohamed Selim Maazouz</h1>
 <h3 align="center">A Passionate Fullstack Web Developer From Tunisia</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="right" alt="Coding" width="400" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedselimmaazouz993&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedselimmaazouz993" /> </p>
