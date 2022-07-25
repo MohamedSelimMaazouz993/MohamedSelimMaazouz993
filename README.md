@@ -15,7 +15,7 @@
 
 - 💬 Ask me about : **React , Angular , Springboot , Rasa X & Rasa Opensource**
 
-- ⚡ Fun fact **Im a Funny Guy also a Gamer ( FPS games )**
+- ⚡ Fun fact : **Im a Funny Guy also a Gamer ( FPS games )**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
