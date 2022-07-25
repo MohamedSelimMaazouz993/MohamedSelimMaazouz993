@@ -20,9 +20,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/maazouzselim93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maazouzselim93" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohamed-selim-maazouz-397634201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-selim-maazouz-397634201/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/mohamed selim maazouz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mohamed selim maazouz" height="30" width="40" /></a>
-<a href="https://fb.com/mohamed selim maazouz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed selim maazouz" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohamed-selim-maazouz-397634201/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-selim-maazouz-397634201/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/19617479/mohamed-selim-maazouz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mohamed selim maazouz" height="30" width="40" /></a>
 <a href="https://instagram.com/sam_69_cs.money" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sam_69_cs.money" height="30" width="40" /></a>
 </p>
 
