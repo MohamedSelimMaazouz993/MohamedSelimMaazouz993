@@ -2,7 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Mohamed Selim Maazouz</h1>
 <h3 align="center">A Passionate Fullstack Web Developer From Tunisia</h3>
-<img align="right" alt="Coding" width="400" src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif">
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/71633887/180793034-ece620b9-d155-43b0-9563-9817d5974bed.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedselimmaazouz993&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedselimmaazouz993" /> </p>
