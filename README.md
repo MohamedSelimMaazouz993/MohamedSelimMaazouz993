@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **React & Courses (Devops , AI , Cyber Security & Cloud )**
 
-- 💬 Ask me about : **React , Angular , Springboot , Rasa X & Rasa Opensource**
+- 💬 Ask me about : **React , Angular , Springboot , Rasa X & Rasa Open Source**
 
 - ⚡ Fun fact : **Im a Funny Guy also a Gamer ( FPS games )**
 
