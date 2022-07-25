@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Mohamed Selim Maazouz</h1>
 <h3 align="center">A Passionate Fullstack Web Developer From Tunisia</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/71633887/180777923-d2e11844-01a6-4539-903d-0b6d342dd6fc.png">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedselimmaazouz993&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedselimmaazouz993" /> </p>
@@ -15,9 +15,7 @@
 
 - 🤝 I’m looking for help with **React**
 
-- 💬 Ask me about **React , Angular , Springboot , Rasa X & Rasa Opensource**
-
-- 📄 Know about my experiences [Any System Management Applications ( Angular & Spring & PostgreSQL ) )](Any System Management Applications ( Angular & Spring & PostgreSQL ) ))
+- 💬 Ask me about : **React , Angular , Springboot , Rasa X & Rasa Opensource**
 
 - ⚡ Fun fact **Im a Funny Guy also a Gamer ( FPS games )**
 
