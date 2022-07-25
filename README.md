@@ -16,7 +16,7 @@
 
 - 💬 Ask me about : **React , Angular , Springboot , Rasa X & Rasa Open Source**
 
-- ⚡ Fun fact : **Im Learning to play guitar and im also a semi Pro Player ( CSGO & Warzone  )**
+- ⚡ Fun fact : **I'm Learning to play guitar and im also a semi Pro Player ( CSGO & Warzone  )**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
