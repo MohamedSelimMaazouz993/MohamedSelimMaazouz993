@@ -1,4 +1,4 @@
-[![MasterHead](https://as1.ftcdn.net/v2/jpg/03/77/08/22/1000_F_377082215_XdCMMLYICc9uDtX4bFLP7k0bfRf5rAPF.jpg)]
+![MasterHead](https://as1.ftcdn.net/v2/jpg/03/77/08/22/1000_F_377082215_XdCMMLYICc9uDtX4bFLP7k0bfRf5rAPF.jpg)
 
 <h1 align="center">Hi 👋, I'm Mohamed Selim Maazouz</h1>
 <h3 align="center">A Passionate Fullstack Web Developer From Tunisia</h3>
