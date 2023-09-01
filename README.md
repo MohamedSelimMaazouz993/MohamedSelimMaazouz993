@@ -25,7 +25,7 @@
 <a href="https://stackoverflow.com/users/19617479/mohamed-selim-maazouz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mohamed selim maazouz" height="30" width="40" /></a>
 <a href="https://instagram.com/sam_69_cs.money" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sam_69_cs.money" height="30" width="40" /></a>
 </p>
-### Languages and Tools
+<h3 align="left">Languages and Tools:</h3>
 
 Technology | Languages, Frameworks and Tools
 :---: | :---
