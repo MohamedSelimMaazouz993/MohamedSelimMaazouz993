@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Data Science , Artificial Intelligence , Cyber Security & Cloud**
 
-- 💬 Ask me about : ** MERN Stack , Angular , Springboot , Rasa X & Rasa Open Source**
+- 💬 Ask me about : **MERN Stack , Angular , Springboot , Rasa X & Rasa Open Source**
 
 - ⚡ Fun fact : **I'm Learning to play guitar and im also a semi Pro Player ( CSGO & Warzone  )**
 
